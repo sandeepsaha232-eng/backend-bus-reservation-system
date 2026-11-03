@@ -1,0 +1,17 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Maven build output
+target/
+
+# Logs
+*.log
